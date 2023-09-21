@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // конечная дата
-    const deadline = new Date(2023, 09, 22);
+    const deadline = new Date(2023, 9, 22);
     let timerId = null;
     // склонение числительных
     function declensionNum(num, words) {
